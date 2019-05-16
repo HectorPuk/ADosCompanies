@@ -1,0 +1,11 @@
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\LoadFromXML.vbproj.ResolveComReference.cache
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\Interop.SAPbobsCOM.dll
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\bin\LoadFromXML.exe
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\bin\LoadFromXML.pdb
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\bin\LoadFromXML.xml
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\bin\Interop.SAPbobsCOM.dll
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\LoadFromXML.FrmMain.resources
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\LoadFromXML.vbproj.GenerateResource.Cache
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\LoadFromXML.exe
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\LoadFromXML.xml
+C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\obj\Debug\LoadFromXML.pdb

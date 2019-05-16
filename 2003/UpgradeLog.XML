@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoadFromXML">
+</Property><Property Name="Solution File" Value="C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\LoadFromXML.sln">
+</Property><Property Name="Date" Value="lunes, 2 de julio de 2018">
+</Property><Property Name="Time" Value="0:17:14">
+</Property></Properties><Event ErrorLevel="0" Project="LoadFromXML" Source="LoadFromXML.vbproj" Description="Project file successfully backed up as C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\Backup\LoadFromXML.vbproj">
+</Event><Event ErrorLevel="0" Project="LoadFromXML" Source="FrmMain.vb" Description="File successfully backed up as C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\Backup\FrmMain.vb">
+</Event><Event ErrorLevel="0" Project="LoadFromXML" Source="FrmMain.resx" Description="File successfully backed up as C:\addon\COM DI\VB.NET\08.LoadFromXML\2003\Backup\FrmMain.resx">
+</Event><Event ErrorLevel="1" Project="LoadFromXML" Source="LoadFromXML.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="LoadFromXML" Source="LoadFromXML.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LoadFromXML" Source="LoadFromXML.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoadFromXML" Source="LoadFromXML.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
